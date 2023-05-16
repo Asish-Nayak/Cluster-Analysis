@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 19 12:41:19 2022
 
-@author: harigran
-"""
 
 import pandas as pd
 df= pd.read_csv(r"C:\Users\my pc\Desktop\MBA - BA II\lab/usarrest.csv")
